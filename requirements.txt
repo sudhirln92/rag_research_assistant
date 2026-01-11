@@ -1,0 +1,12 @@
+
+langchain-core
+langchain-community
+langchain-huggingface
+arxiv
+tiktoken
+chromadb
+faiss-cpu
+pymupdf
+pypdf
+pydantic
+sentence-transformers
