@@ -1,2 +1,5 @@
-# rag_research_assistant
-RAG Research Assistant
+# RAG Research Assistant
+The aim of the project is to develop RAG based research Assistant 
+
+## Architecture
+ 
